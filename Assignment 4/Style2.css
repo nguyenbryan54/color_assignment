@@ -1,0 +1,85 @@
+.grid{
+    margin-bottom: 25px;
+    display: block;
+
+}
+.grid div{
+    padding: 100px;
+    margin-bottom: 8px;
+    margin-left:500px;
+    margin-right:500px;
+}
+
+.grid .one{
+    background: #1E1F68;
+    border-style: solid;
+    border-color:#D91273;
+
+}
+
+.grid .two{
+    background-color: #3D4A50;
+    border-style: solid;
+    border-color: #9CB6C9;
+}
+
+.grid .three{
+    background-color: black;
+    border-style: solid;
+    border-color: #F08A57
+}
+
+.grid .four{
+    background-color: black;
+    border-style: solid;
+    border-color: yellow
+}
+
+.grid .five{
+    background-color: #FFB9FC ;
+    border-style: solid;
+    border-color: #216288;
+}
+
+
+.parent{
+    text-align:center;
+    font-size: 75px;
+    font-family:fantasy
+    
+}
+
+.parent .six{
+    background: -webkit-linear-gradient(left, #A52577 30%, #EF456A 45%, #FFF200 50%, #EA8351 65% );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: -1115px;
+}
+
+.parent .seven{
+    background: -webkit-linear-gradient(left, #9BB5C9 30%, #FFFFFF 45%, #F4EA62 50%, #F9D327 65%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 125px;
+}
+
+.parent .eight{
+    background: -webkit-linear-gradient(left, #F8E520 30%, #A1CBA3 45%, #F08A57 50%, #FFD005 65%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top:120px;
+}
+
+.parent .nine{
+    background: -webkit-linear-gradient(left, white 40%, black 47%, yellow 45%, black 50%, white 62%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top:125px;
+}
+
+.parent .ten{
+    background: -webkit-linear-gradient(left, #149CCF 30%, #471F9D 45%, #5C2049 50%, #EE2EF1 55%, #CA1F71 60%, #D51136 65%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top:120px;
+}
